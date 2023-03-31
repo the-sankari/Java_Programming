@@ -13,9 +13,7 @@ public class JumpResult {
 
         System.out.println();
         for (int i = 0; i < charArray.length; i++) {
-            System.out.println(charArray[i]);
-            
-            
+            System.out.println(charArray[i]);            
         }
     }
 }
